@@ -9,10 +9,6 @@ __pycache__/
 venv/
 env/
 
-# Jupyter Notebooks
-.ipynb_checkpoints/
-*.ipynb
-
 # VS Code
 .vscode/
 *.code-workspace
